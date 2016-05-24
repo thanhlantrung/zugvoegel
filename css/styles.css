@@ -1,0 +1,122 @@
+body {
+	background-color: black;
+}
+#about {
+	background-color: black;
+}
+	
+
+#first-post,
+#second-post {
+	background-color: white;
+	width: 60%;
+	border: 1.5px solid gray;
+}
+
+
+
+h1, h2, h3 {
+	font-family: "Palatino Linotype", serif;
+}
+
+
+
+.navigation-bar {
+	position: fixed;
+	width: 100%;
+	top: 0;
+	background-color: black;
+	z-index: 1;
+}
+
+.navigation-bar ul li {
+	float: right;
+	display: block;
+	padding: 20px 20px 10px;
+}
+
+.navigation-bar ul li a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+/*.anchor {
+	padding-top: 50px;
+}*/
+
+p {
+	font-family: Rosario, sans-serif;
+
+}
+
+h2 {
+	text-align: center;
+	font-size: 2em;
+	text-transform: uppercase;
+
+}
+
+#zugvoegel {
+	background-color: black;
+	color: white;
+}
+
+#zugvoegel p {
+	padding: 3em;
+	text-align: center;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 5em;
+	text-align: center;
+	letter-spacing: .2em;
+	color: white;
+}
+
+h2, h3 {
+	color: black;
+}
+
+#background-div1,
+#background-div2 {
+	background-color: black;
+}
+
+a {
+	color: gray;
+
+}
+
+footer {
+	background-color: black;
+	width: 100%;
+
+}
+
+footer p {
+	text-align: center;
+	margin: 0 auto;
+	bottom: 0px;
+}
+
+.caption {
+	font-style: italic;
+}
+
+#about-div {
+	padding-top: 52px;
+	padding-bottom: 52px;
+}
+
+.about-us {
+	font-style: italic;
+}
+
+.glyphicon {
+	margin-right: 5px;
+}
+
+.glyphicon:hover {
+	color: black;
+}
