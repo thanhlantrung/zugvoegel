@@ -148,12 +148,13 @@ footer p {
 	}
 	h1 {
 		color: black;
+		font-size: 250%;
 	}
 
 	#zugvoegel {
 		background-color: white;
 		color: black;
-		width: 100%;
+	
 	}
 
 	.navigation-bar {
