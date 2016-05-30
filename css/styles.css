@@ -120,3 +120,59 @@ footer p {
 .glyphicon:hover {
 	color: black;
 }
+
+@media (max-width: 480px) {
+	
+	#first-post,
+	#second-post {
+	background-color: white;
+	width: 100%;
+	margin: none;
+	border: 0;
+	padding: 0;
+	text-align: justify;
+}
+	.container-fluid {
+		background-color: white;
+		color: black;
+
+	}
+	html {
+		background-color: white;
+		color: black;
+	}
+
+	body {
+		background-color: white;
+		color: black;
+	}
+	h1 {
+		color: black;
+	}
+
+	#zugvoegel {
+		background-color: white;
+		color: black;
+	}
+
+	.navigation-bar {
+		background-color: white;
+		color: black;
+	}
+
+	#background-div1,
+	#background-div2 {
+		background-color: white;
+		color: black;
+		width: 100%;
+		padding: 0;
+		border: 0;
+		margin: 0 auto;
+		position: center;
+	}
+
+	footer {
+		background-color: white;
+		color: black;
+	}
+}
