@@ -104,6 +104,10 @@ footer p {
 	font-style: italic;
 }
 
+.caption a:hover {
+	text-decoration: none;
+}
+
 #about-div {
 	padding-top: 52px;
 	padding-bottom: 52px;
